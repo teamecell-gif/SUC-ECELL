@@ -20,7 +20,7 @@ const TimeLine = () => (
             </p>
             <p className="text-lg md:text-lg text-gray-50 mb-4">
               Mark your Calenders as we present before you the Timeline of the
-              SUC-25 Event. Go through all the steps to know the exact process
+              SUC-26 Event. Go through all the steps to know the exact process
               of the Event.
             </p>
             {/* <a href="#"
@@ -38,7 +38,7 @@ const TimeLine = () => (
                 <div className="bg-opacity-0 mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
                   <div className="order-1 w-5/12"></div>
                   <div className="order-1 w-5/12 px-1 py-4 text-right">
-                    <p className="text-xl mb-3 text-yellow-400">6 Jan, 2025</p>
+                    <p className="text-xl mb-3 text-yellow-400">29 Jan, 2026</p>
                     <h4
                       className="mb-3 font-bold font-serif text-lg md:text-3xl"
                       id="same"
@@ -46,7 +46,7 @@ const TimeLine = () => (
                       Registration Starts
                     </h4>
                     <p className="text-lg md:text-lg leading-snug text-gray-50 text-opacity-100">
-                      Start your journey with Start-Up Conclave 2025 by
+                      Start your journey with Start-Up Conclave 2026 by
                       registering for the event by clicking the above Register
                       button.
                     </p>
@@ -55,17 +55,17 @@ const TimeLine = () => (
                 <div className="mb-8 flex justify-between items-center w-full right-timeline">
                   <div className="order-1 w-5/12"></div>
                   <div className="order-1  w-5/12 px-1 py-4 text-left">
-                    <p className="text-xl mb-3 text-yellow-400">18 Jan, 2025</p>
+                    <p className="text-xl mb-3 text-yellow-400">29 Jan to 6 Feb, 2026</p>
                     <h4
                       className="mb-3 font-bold font-serif text-lg md:text-3xl"
                       id="same"
                     >
-                      Registration Ends
+                      Questionnaire Round
                     </h4>
                     <p className="text-lg md:text-lg leading-snug text-gray-50 text-opacity-100">
-                      The Last Day of Registration. Make sure to register
-                      beforehand and grab this exciting opportunity to deliever
-                      on a Big Stage.
+                      The Start of Questionnaire rounds wherein participants
+                      answer key questions one on one to evaluate their 
+                      ideas and business clarity.
                     </p>
                   </div>
                 </div>
@@ -74,13 +74,14 @@ const TimeLine = () => (
                   <div className="order-1 w-5/12 px-1 py-4 text-right">
                     <p className="text-xl mb-3 text-yellow-400">
                       {" "}
-                      20 Jan to 28 Jan, 2025
+                      7 Feb to 8 Feb, 2026
                     </p>
                     <h4
                       className="mb-3 font-bold font-serif text-lg md:text-3xl"
                       id="same"
                     >
-                      Mentorship Round
+                      Mentorship And 
+                      Pitch Deck Submission
                     </h4>
                     <p clasaName="text-lg md:text-lg leading-snug text-gray-50 text-opacity-100">
                       The Start of Mentorship rounds wherein Expereinced
@@ -94,7 +95,7 @@ const TimeLine = () => (
                   <div className="order-1 w-5/12"></div>
 
                   <div className="order-1  w-5/12 px-1 py-4">
-                    <p className="text-xl mb-3 text-yellow-400">8 Feb,2025</p>
+                    <p className="text-xl mb-3 text-yellow-400">15 Feb, 2026</p>
                     <h4
                       className="mb-3 font-bold font-serif text-lg md:text-3xl text-left"
                       id="same"

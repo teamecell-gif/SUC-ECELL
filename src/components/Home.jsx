@@ -26,12 +26,12 @@ const Home = () => (
         </span>
         <br />
         <span className="text-2xl">
-          Registrations for SUC 2025 has Started !!!
+          Registrations for SUC 2026 has Started !!!
         </span>
       </p>
       <div className="">
         <a
-          href="https://unstop.com/p/startup-conclave-2025-visvesvaraya-national-institute-of-technology-1353458"
+          href="https://unstop.com/p/startup-conclave-consortium26-consortium26-the-entrepreneurship-cell-vnit-1632203"
           rel="noreferrer"
           target="_blank"
           className="mr-8"
