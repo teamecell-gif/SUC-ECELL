@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import Home from "./components/Home";
-import About from "./components/About";
 import Navbar from "./components/Navbar";
 import TimeLine from "./components/TimeLine";
 import Contact from "./components/Contact";
@@ -16,7 +15,6 @@ function App() {
         <Navbar />
         <Home />
         <About1 />
-        {/* <About /> */}
         <TimeLine />
         <Contact />
         <Footer />
@@ -24,4 +22,5 @@ function App() {
     </BrowserRouter>
   );
 }
+
 export default App;
