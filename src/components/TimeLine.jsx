@@ -1,7 +1,7 @@
 import React from "react";
 import "./Timeline.css";
 import image1 from "../assets/image1.png";
-import pdf from "../assets/tnc24.pdf";
+// import pdf from "../assets/tnc24.pdf";
 
 const TimeLine = () => (
   <div>
@@ -82,7 +82,7 @@ const TimeLine = () => (
                     <h4 className="mb-3 font-bold font-serif text-lg md:text-3xl">
                       Shark Tank Conso
                       <a
-                        href={pdf}
+                        href="https://drive.google.com/file/d/1SzAj0nemWqkoy3GNrkGWXf_gsAVSXEBZ/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="ml-2 underline"
@@ -91,7 +91,7 @@ const TimeLine = () => (
                       </a>
                     </h4>
                     <p className="text-lg leading-snug text-gray-50">
-                      Top 15 startups pitch their ideas before industry leaders.
+                      Top 10 startups pitch their ideas before industry leaders.
                     </p>
                   </div>
                 </div>
